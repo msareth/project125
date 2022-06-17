@@ -1,0 +1,34 @@
+.heading {
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    box-shadow:  5px 5px 5px darkgray;
+    font-family: 'Nuosu SIL', serif;
+
+}
+
+.note {
+    font-size: 18px;
+    color: black;
+    font-family: 'Nuosu SIL', serif;
+
+}
+
+.copyright_footer {
+    position: fixed;
+    background-color: dimgray;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: white;
+    font-family: 'Nuosu SIL', serif;
+font-size: 18px;
+}
+
+canvas {
+    border:5px solid white;
+    border-radius: 20px ;
+    box-shadow: 5px 5px 5px darkgray;
+    margin-top: 30px;
+}
